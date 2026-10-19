@@ -1,4 +1,4 @@
-# Rishi
+# RISHi
 
 I build web apps and crypto tools.
 
